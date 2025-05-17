@@ -1,12 +1,10 @@
 👋 Hi, I'm Srikanth Reddy!
-I'm passionate about data science and currently expanding my skills in data structures and algorithms (DSA). 
-I enjoy diving into data, uncovering insights, and applying machine learning techniques to solve real-world problems.
-🌱 What I'm Currently Learning:
- - Data Structures and Algorithms (DSA)
- - Advanced Machine Learning Techniques 
+I'm passionate about backend development using spring boot, data analysis and currently expanding my skills in data structures and algorithms. 
+I enjoy creating restful apis, diving into data, uncovering insights.
 Tools🛠 Technologies I Use:
- - Python: pandas, NumPy, scikit-learn, TensorFlow
- - Data Visualization: Matplotlib, Seaborn, Plotly
+ - Java: SpringBoot
+ - Python: pandas, NumPy, scikit-learn
+ - Data Visualization: Matplotlib, Seaborn,powerBI
  - Databases: SQL
  - Version Control: Git, GitHub
 📫 How to Reach Me:
