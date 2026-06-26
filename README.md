@@ -1,16 +1,7 @@
-👋 Hi, I'm Srikanth Reddy!
-I'm passionate about backend development using spring boot, data analysis and currently expanding my skills in data structures and algorithms. 
-I enjoy creating restful apis, diving into data, uncovering insights.
-Tools🛠 Technologies I Use:
- - Java: SpringBoot
- - Python: pandas, NumPy, scikit-learn
- - Data Visualization: Matplotlib, Seaborn,powerBI
- - Databases: SQL
- - Version Control: Git, GitHub
-📫 How to Reach Me:
- - LinkedIn: www.linkedin.com/in/sai-srikanth-reddy-venna-786927218
- - Email: venkatasaisrikanthreddyvenna@gmail.com
-Feel free to check out my repositories and projects.
-I'm always open to collaborating on interesting projects and
-connecting with fellow enthusiasts in the field.
+💫 About Me:
+👋 Hi, I'm Srikanth<br><br>🚀 Backend Developer focused on building scalable applications using Java, Spring Boot, MySQL, MongoDB, Kafka, Docker, and AWS.<br><br>🔭 Currently building backend applications, REST APIs, and exploring distributed systems and event-driven architectures.<br><br>🌱 Deep diving into Data Structures & Algorithms and learning System Design to build scalable and reliable systems.<br><br>👯 Open to collaborating on Java, Spring Boot, Microservices, and Backend Engineering projects.<br><br>💬 Ask me about:<br><br>* Java<br>* Spring Boot<br>* MySQL & MongoDB<br>* REST APIs<br>* Kafka<br>* Docker<br>* AWS<br>* Git & GitHub<br>* Data Structures & Algorithms<br><br>⚡ Fun fact: My curiosity usually starts with "How does this work?" and ends with a new project.<br>
 
+🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
