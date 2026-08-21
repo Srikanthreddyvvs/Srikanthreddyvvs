@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Srikanth%20Reddy%20Venna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Srikanth%20Reddy%20Venna&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20|%20Backend%20and%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+Redis;Turning+data+into+reliable+pipelines;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+Redis;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
+
+</div>
 
 <br/>
 
@@ -23,8 +25,6 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:venkatasaisrikanthreddyvenna@gmail.com)
-
-</div>
 
 ---
 
